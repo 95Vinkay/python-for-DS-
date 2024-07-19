@@ -1,0 +1,57 @@
+This is a new file
+This is a new line
+This is Line A
+This is Line B
+This is Line C
+This is Line D
+CRUD operation 
+
+Insert Statement
+
+Simple Insert
+
+Multiple Insert
+
+Datatype Mismatch
+
+Null vs Not Null
+
+Default Values
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
